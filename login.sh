@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"username":"crio.do","password":"learnbydoing"}' http://35.154.66.66:8082/api/v1/auth/login
